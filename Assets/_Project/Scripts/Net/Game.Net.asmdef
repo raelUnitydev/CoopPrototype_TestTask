@@ -1,0 +1,21 @@
+{
+    "name": "Game.Net",
+    "rootNamespace": "Game.Net",
+    "references": [
+        "Game.Domain",
+        "Game.Application",
+        "Unity.Netcode.Runtime",
+        "Unity.Collections",
+        "UniTask",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
