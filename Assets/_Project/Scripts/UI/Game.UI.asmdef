@@ -1,0 +1,19 @@
+{
+    "name": "Game.UI",
+    "rootNamespace": "Game.UI",
+    "references": [
+        "Game.Domain",
+        "Game.Application",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
