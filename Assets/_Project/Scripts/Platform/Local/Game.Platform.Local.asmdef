@@ -1,0 +1,21 @@
+{
+    "name": "Game.Platform.Local",
+    "rootNamespace": "Game.Platform.Local",
+    "references": [
+        "Game.Domain",
+        "Game.Application",
+        "Game.Net",
+        "Unity.Netcode.Runtime",
+        "Unity.Networking.Transport",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
