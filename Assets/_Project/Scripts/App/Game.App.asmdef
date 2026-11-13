@@ -1,0 +1,27 @@
+{
+    "name": "Game.App",
+    "rootNamespace": "Game.App",
+    "references": [
+        "Game.Domain",
+        "Game.Application",
+        "Game.Net",
+        "Game.Features.Player",
+        "Game.Features.Items",
+        "Game.Platform.Local",
+        "Game.Platform.Steam",
+        "Game.UI",
+        "Unity.Netcode.Runtime",
+        "UniTask",
+        "VContainer",
+        "Unity.Multiplayer.Tools.NetworkSimulator.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
