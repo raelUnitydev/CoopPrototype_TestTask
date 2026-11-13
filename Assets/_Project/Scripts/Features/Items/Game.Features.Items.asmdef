@@ -1,0 +1,22 @@
+{
+    "name": "Game.Features.Items",
+    "rootNamespace": "Game.Features.Items",
+    "references": [
+        "Game.Domain",
+        "Game.Application",
+        "Game.Net",
+        "Game.Features.Player",
+        "Unity.Netcode.Runtime",
+        "Unity.InputSystem",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
