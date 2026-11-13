@@ -1,0 +1,27 @@
+{
+    "name": "Game.Platform.Steam",
+    "rootNamespace": "Game.Platform.Steam",
+    "references": [
+        "Game.Domain",
+        "Game.Application",
+        "Game.Net",
+        "Unity.Netcode.Runtime",
+        "UniTask",
+        "com.rlabrecque.steamworks.net",
+        "SteamNetworkingSockets Transport for Netcode for GameObjects"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone64",
+        "LinuxStandalone64",
+        "macOSStandalone"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
